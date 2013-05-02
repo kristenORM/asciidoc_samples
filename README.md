@@ -2,6 +2,8 @@
 
 This directory contains samples of Asciidoc source files, for use with our internal publishing tools.
 
+Please note that if you view the file contents in the GitHub UI, you'll need to click on the "Raw" link to see the raw unformatted Asciidoc markup.
+
 Files are organized as follows:
 
 ## Boilerplate/skeleton files for common book components
