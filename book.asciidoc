@@ -5,6 +5,6 @@ Book Title
 Keep a blank line between each include::[] macro
 /////////////
 
-include::preface.asc[]
+include::preface.asciidoc[]
 
-include::ch01.asc[]
+include::ch01.asciidoc[]
